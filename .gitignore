@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+checkpoints/
+checkpoints_fast/
+train_error.txt
+train_output.txt
